@@ -10,7 +10,9 @@
         <a href="README_DE.md"><span>Deutsch</span></a>|
         <a href="README_GR.md"><span>Ελληνικά</span></a>
         <p>🌟 Добро пожаловать в мой уголок вселенной программирования! 🌟</p>
-        <h3>Языки:</h3>
-        <p>JavaScript, CSS, HTML, Python, C#, Kotlin</p>
+        <h3>Языки & Инструменты:</h3>
+        <p>HTML, CSS, JavaScript, C#, 
+        Visual Basic .NET, Python, Kotlin</p>
+        <img src="https://skillicons.dev/icons?i=html,css,js,cs,python,dotnet,kotlin,sqlite,firebase,md,netlify,git,github,unity,visualstudio,vscode,idea,androidstudio&perline=13">
         <img src="https://github-readme-mwendwa.vercel.app/api/top-langs/?username=michatec&layout=compact&count_private=true&theme=blue-green&title_color=00b3ff">
 </div>
