@@ -13,6 +13,6 @@
         <h3>Languages:</h3>
         <p>HTML, CSS, JavaScript, C#, Visual Basic .NET, Python, Kotlin</p>
         <img src="https://skillicons.dev/icons?i=html,css,js,cs,python,dotnet,kotlin,sqlite,firebase,md,netlify,git,github,unity,visualstudio,vscode,idea,androidstudio&perline=13">
-        <br>
+        <p>
         <img src="https://github-readme-mwendwa.vercel.app/api/top-langs/?username=michatec&layout=compact&count_private=true&theme=blue-green&title_color=00b3ff">
 </div>
