@@ -10,4 +10,7 @@
         <a href="README_DE.md"><span>Deutsch</span></a>|
         <a href="README_GR.md"><span>Ελληνικά</span></a>
         <p>🌟 Добро пожаловать в мой уголок вселенной программирования! 🌟</p>
+        <h3>Языки:</h3>
+        <p>JavaScript, CSS, HTML, Python, C#, Kotlin</p>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=michatec&theme=blue&hide_border=true&include_all_commits=false&count_private=false&layout=compact">
 </div>
