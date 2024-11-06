@@ -11,6 +11,6 @@
         <a href="README_GR.md"><span>Ελληνικά</span></a>
         <p>🌟 Welcome to my corner of the coding universe! 🌟</p>
         <h3>Language:</h3>
-        <p>JavaScript,CSS,HTML,Python,C#,Kotlin</p>
+        <p>JavaScript, CSS, HTML, Python, C#, Kotlin</p>
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=michatec&theme=blue&hide_border=true&include_all_commits=false&count_private=false&layout=compact">
 </div>
