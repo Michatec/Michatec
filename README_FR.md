@@ -10,7 +10,7 @@
         <a href="README_DE.md"><span>Deutsch</span></a>|
         <a href="README_GR.md"><span>Ελληνικά</span></a>
         <p>🌟 Bienvenue dans mon coin de l'univers du codage ! 🌟</p>
-        <h3>Langue:</h3>
+        <h3>Langues:</h3>
         <p>JavaScript, CSS, HTML, Python, C#, Kotlin</p>
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=michatec&theme=blue&hide_border=true&include_all_commits=false&count_private=false&layout=compact">
 </div>
