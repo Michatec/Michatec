@@ -10,7 +10,7 @@
         <a href="README_DE.md"><span>Deutsch</span></a>|
         <a href="README_GR.md"><span>Ελληνικά</span></a>
         <p>🌟 Welcome to my corner of the coding universe! 🌟</p>
-        <h3>Languages:</h3>
+        <h3>Languages & Tools:</h3>
         <p>HTML, CSS, JavaScript, C#, 
         Visual Basic .NET, Python, Kotlin</p>
         <img src="https://skillicons.dev/icons?i=html,css,js,cs,python,dotnet,kotlin,sqlite,firebase,md,netlify,git,github,unity,visualstudio,vscode,idea,androidstudio&perline=13">
