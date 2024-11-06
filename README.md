@@ -1,16 +1,11 @@
-## Hi there 👋
-
-<!--
-**Michatec/Michatec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center" style="background-size: cover; background-position: center; padding: 20px;">
+    <h3>Hi 👋, I'm <a href="https://github.com/Michatec">Michachatz</a></h3>
+    <p align="center">
+    <p align="center">
+        <a href="README_CN.md"><span>中文</span></a>|
+        <a href="README_FR.md"><span>Français</span></a>|
+        <a href="README_RU.md"><span>Русский</span></a>|
+        <a href="README_JP.md"><span>日本語</span></a>|
+        <a href="README_PTBR.md"><span>Português</span></a>|
+        <p>🌟 Welcome to my corner of the coding universe! 🌟</p>
+</div>
